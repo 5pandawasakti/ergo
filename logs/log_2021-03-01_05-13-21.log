@@ -1,0 +1,37 @@
+2021-03-01 05:13:21: <info>                                    _                 
+2021-03-01 05:13:21: <info>  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-03-01 05:13:21: <info> | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-03-01 05:13:21: <info> | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-03-01 05:13:21: <info> |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-03-01 05:13:21: <info> 
+2021-03-01 05:13:21: <info> Version 3.2.2-cuda11
+2021-03-01 05:13:21: <info>  Started EthMan server on port 3333 without a password (read-only mode).
+2021-03-01 05:13:21: <info>  Started web interface on port 9090 without a password.
+2021-03-01 05:13:21: <info> ------------------RandomX:------------------
+2021-03-01 05:13:21: <info> Currency: Monero
+2021-03-01 05:13:21: <info> Wallet: 46TgqBPmxFYiEhWfwGMRWWaqyrardCVB2JtZCKyAmatGeuPWMsNAJmFU3cCiTSn16XT2nw5XMXcJVidVxR46F3i57N5K7NN
+2021-03-01 05:13:21: <info> Rig name: speed_test
+2021-03-01 05:13:21: <info> Email was not set.
+2021-03-01 05:13:21: <info> Hashrate threshold to restart miner is not set
+2021-03-01 05:13:21: <info> Using CPU threads: 4
+2021-03-01 05:13:21: <info> Added pool: xmr-asia1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-jp1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-au1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-us-west1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-us-east1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-eu2.nanopool.org:14433
+2021-03-01 05:13:21: <info> Added pool: xmr-eu1.nanopool.org:14433
+2021-03-01 05:13:21: <info> Auto pool sorting is enabled
+2021-03-01 05:13:21: <info> -------------Common parameters:-------------
+2021-03-01 05:13:21: <info> Log path: ./logs/
+2021-03-01 05:13:21: <info> Log is written to file
+2021-03-01 05:13:21: <info> GPU watchdog is enabled
+2021-03-01 05:13:21: <info> Never calling reboot.sh (always restarting the miner in case of errors). 
+2021-03-01 05:13:21: <info>  Setting up algorithm: RandomX
+2021-03-01 05:13:22: <info>  Connecting to pools...
+2021-03-01 05:13:22: <info>  Connected to pool: xmr-asia1.nanopool.org:14433 | IP: 139.99.101.198 | ping: 146 ms.
+2021-03-01 05:13:22: <info> CPU: Intel(R) Core(TM) i3 CPU       M 380  @ 2.53GHz | AVX2: no | SSSE3: yes | AES: no
+2021-03-01 05:13:22: <info>  New job from xmr-asia1.nanopool.org:14433 | share difficulty = 480 kH
+2021-03-01 05:13:22: [Statistics] Monero - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:01
+2021-03-01 05:13:22: <info>  Updating dataset...
+2021-03-01 05:16:40: <info>  New job from xmr-asia1.nanopool.org:14433
