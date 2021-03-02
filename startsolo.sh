@@ -1,1 +1,1 @@
-./run config_erg_pool.ini
+./run config_erg_solo.ini
